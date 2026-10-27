@@ -1,0 +1,13 @@
+# Repo dos alunos: ignora tudo e libera só o que o aluno pode ver.
+/*
+!/.gitignore
+!/README.md
+!/briefings/
+/briefings/README.md
+!/pacotes/
+!/revisao/
+/revisao/*
+!/revisao/demo/
+/revisao/demo/index.html
+/revisao/demo/style.css
+.DS_Store
