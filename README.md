@@ -24,7 +24,7 @@ Foto, logo e ícones já vêm prontos. Você não precisa procurar imagem nem de
 2. Baixe o zip do seu briefing (abra o link e clique em **Download raw file**).
 3. Leia o `briefing.md` e olhe a `referencia.png`.
 4. Monte o cartão em `index.html` + `style.css`.
-5. Valide, zipe e entregue pelo Teams.
+5. Valide, zipe com o nome do seu RM (`123456.zip`) e entregue pelo Teams.
 
 ## Qual é o seu briefing
 
@@ -106,14 +106,17 @@ O `briefing.md` traz o **código do Google Fonts pronto para copiar e colar** e 
 
 ## Entrega
 
-Pasta com seu nome, zipada:
+Zipe a pasta do seu código e dê ao zip o **nome do seu RM**. Se o seu RM é 123456, o arquivo é `123456.zip`:
 
 ```
-nome-sobrenome/
-├── index.html
-├── style.css
-└── assets/          ← a pasta que você recebeu
+123456.zip
+└── 123456/
+    ├── index.html
+    ├── style.css
+    └── assets/          ← a pasta que você recebeu
 ```
+
+Só o número: sem o seu nome, sem "RM" na frente. Antes de enviar, abra o zip e confira que `index.html`, `style.css` e `assets/` estão lá.
 
 No topo do `style.css`, um comentário com nome, RM e número do briefing. Envie pelo Teams **antes do fim do horário**. [Canal e horário: preencher]
 
