@@ -20,7 +20,7 @@ Foto, logo e ícones já vêm prontos. Você não precisa procurar imagem nem de
 
 ## Passo a passo
 
-1. Ache o seu RM na tabela abaixo. O número ao lado é o seu briefing.
+1. Ache o seu RM na tabela abaixo (em ordem crescente). O número ao lado é o seu briefing.
 2. Baixe o zip do seu briefing (abra o link e clique em **Download raw file**).
 3. Leia o `briefing.md` e olhe a `referencia.png`.
 4. Monte o cartão em `index.html` + `style.css`.
@@ -30,34 +30,34 @@ Foto, logo e ícones já vêm prontos. Você não precisa procurar imagem nem de
 
 | RM | Briefing | Profissão | Zip |
 |---|---|---|---|
-| 575901 | [01](briefings/01-personal-trainer/) | Personal Trainer | [01-personal-trainer.zip](pacotes/01-personal-trainer.zip) |
-| 576025 | [02](briefings/02-dermatologista/) | Dermatologista | [02-dermatologista.zip](pacotes/02-dermatologista.zip) |
-| 576103 | [03](briefings/03-eletricista/) | Eletricista | [03-eletricista.zip](pacotes/03-eletricista.zip) |
-| 576354 | [04](briefings/04-confeiteira/) | Confeiteira | [04-confeiteira.zip](pacotes/04-confeiteira.zip) |
-| 575371 | [05](briefings/05-advogado/) | Advogado Tributarista | [05-advogado.zip](pacotes/05-advogado.zip) |
-| 574750 | [06](briefings/06-dj/) | DJ / Produtor Musical | [06-dj.zip](pacotes/06-dj.zip) |
-| 576451 | [07](briefings/07-arquiteta/) | Arquiteta de Interiores | [07-arquiteta.zip](pacotes/07-arquiteta.zip) |
-| 574299 | [08](briefings/08-mecanico/) | Mecânico | [08-mecanico.zip](pacotes/08-mecanico.zip) |
-| 574739 | [09](briefings/09-psicologa/) | Psicóloga Infantil | [09-psicologa.zip](pacotes/09-psicologa.zip) |
-| 575113 | [10](briefings/10-chef/) | Chef de Cozinha Italiana | [10-chef.zip](pacotes/10-chef.zip) |
-| 575813 | [11](briefings/11-fotografo/) | Fotógrafo de Casamento | [11-fotografo.zip](pacotes/11-fotografo.zip) |
-| 575926 | [12](briefings/12-barbeiro/) | Barbearia | [12-barbeiro.zip](pacotes/12-barbeiro.zip) |
-| 575447 | [13](briefings/13-nail-designer/) | Nail Designer | [13-nail-designer.zip](pacotes/13-nail-designer.zip) |
-| 574620 | [14](briefings/14-veterinario/) | Veterinário | [14-veterinario.zip](pacotes/14-veterinario.zip) |
-| 575349 | [15](briefings/15-tatuador/) | Tatuador | [15-tatuador.zip](pacotes/15-tatuador.zip) |
-| 576188 | [16](briefings/16-nutricionista/) | Nutricionista | [16-nutricionista.zip](pacotes/16-nutricionista.zip) |
-| 576304 | [17](briefings/17-ux-designer/) | UX/UI Designer | [17-ux-designer.zip](pacotes/17-ux-designer.zip) |
-| 574803 | [18](briefings/18-coach-financeiro/) | Coach Financeiro | [18-coach-financeiro.zip](pacotes/18-coach-financeiro.zip) |
-| 575525 | [19](briefings/19-professora-yoga/) | Professora de Yoga | [19-professora-yoga.zip](pacotes/19-professora-yoga.zip) |
-| 573464 | [20](briefings/20-maquiadora/) | Maquiadora Profissional | [20-maquiadora.zip](pacotes/20-maquiadora.zip) |
-| 574498 | [21](briefings/21-corretor-imoveis/) | Corretor de Imóveis | [21-corretor-imoveis.zip](pacotes/21-corretor-imoveis.zip) |
-| 574728 | [22](briefings/22-florista/) | Florista | [22-florista.zip](pacotes/22-florista.zip) |
-| 575499 | [23](briefings/23-streamer/) | Streamer / Criador de Conteúdo Gamer | [23-streamer.zip](pacotes/23-streamer.zip) |
-| 576294 | [24](briefings/24-pet-sitter/) | Pet Sitter / Dog Walker | [24-pet-sitter.zip](pacotes/24-pet-sitter.zip) |
-| 575957 | [25](briefings/25-fisioterapeuta/) | Fisioterapeuta esportivo | [25-fisioterapeuta.zip](pacotes/25-fisioterapeuta.zip) |
-| 576922 | [26](briefings/26-professora-ingles/) | Professora de inglês | [26-professora-ingles.zip](pacotes/26-professora-ingles.zip) |
-| 576450 | [27](briefings/27-sommelier/) | Sommelier | [27-sommelier.zip](pacotes/27-sommelier.zip) |
-| 575508 | [28](briefings/28-podcaster/) | Podcaster | [28-podcaster.zip](pacotes/28-podcaster.zip) |
+| 573464 | [09](briefings/09-psicologa/) | Psicóloga Infantil | [09-psicologa.zip](pacotes/09-psicologa.zip) |
+| 574299 | [24](briefings/24-pet-sitter/) | Pet Sitter / Dog Walker | [24-pet-sitter.zip](pacotes/24-pet-sitter.zip) |
+| 574498 | [17](briefings/17-ux-designer/) | UX/UI Designer | [17-ux-designer.zip](pacotes/17-ux-designer.zip) |
+| 574620 | [19](briefings/19-professora-yoga/) | Professora de Yoga | [19-professora-yoga.zip](pacotes/19-professora-yoga.zip) |
+| 574728 | [20](briefings/20-maquiadora/) | Maquiadora Profissional | [20-maquiadora.zip](pacotes/20-maquiadora.zip) |
+| 574739 | [22](briefings/22-florista/) | Florista | [22-florista.zip](pacotes/22-florista.zip) |
+| 574750 | [08](briefings/08-mecanico/) | Mecânico | [08-mecanico.zip](pacotes/08-mecanico.zip) |
+| 574803 | [05](briefings/05-advogado/) | Advogado Tributarista | [05-advogado.zip](pacotes/05-advogado.zip) |
+| 575113 | [03](briefings/03-eletricista/) | Eletricista | [03-eletricista.zip](pacotes/03-eletricista.zip) |
+| 575349 | [27](briefings/27-sommelier/) | Sommelier | [27-sommelier.zip](pacotes/27-sommelier.zip) |
+| 575371 | [18](briefings/18-coach-financeiro/) | Coach Financeiro | [18-coach-financeiro.zip](pacotes/18-coach-financeiro.zip) |
+| 575447 | [01](briefings/01-personal-trainer/) | Personal Trainer | [01-personal-trainer.zip](pacotes/01-personal-trainer.zip) |
+| 575499 | [28](briefings/28-podcaster/) | Podcaster | [28-podcaster.zip](pacotes/28-podcaster.zip) |
+| 575508 | [11](briefings/11-fotografo/) | Fotógrafo de Casamento | [11-fotografo.zip](pacotes/11-fotografo.zip) |
+| 575525 | [16](briefings/16-nutricionista/) | Nutricionista | [16-nutricionista.zip](pacotes/16-nutricionista.zip) |
+| 575813 | [07](briefings/07-arquiteta/) | Arquiteta de Interiores | [07-arquiteta.zip](pacotes/07-arquiteta.zip) |
+| 575901 | [23](briefings/23-streamer/) | Streamer / Criador de Conteúdo Gamer | [23-streamer.zip](pacotes/23-streamer.zip) |
+| 575926 | [14](briefings/14-veterinario/) | Veterinário | [14-veterinario.zip](pacotes/14-veterinario.zip) |
+| 575957 | [04](briefings/04-confeiteira/) | Confeiteira | [04-confeiteira.zip](pacotes/04-confeiteira.zip) |
+| 576025 | [15](briefings/15-tatuador/) | Tatuador | [15-tatuador.zip](pacotes/15-tatuador.zip) |
+| 576103 | [26](briefings/26-professora-ingles/) | Professora de inglês | [26-professora-ingles.zip](pacotes/26-professora-ingles.zip) |
+| 576188 | [12](briefings/12-barbeiro/) | Barbearia | [12-barbeiro.zip](pacotes/12-barbeiro.zip) |
+| 576294 | [10](briefings/10-chef/) | Chef de Cozinha Italiana | [10-chef.zip](pacotes/10-chef.zip) |
+| 576304 | [02](briefings/02-dermatologista/) | Dermatologista | [02-dermatologista.zip](pacotes/02-dermatologista.zip) |
+| 576354 | [21](briefings/21-corretor-imoveis/) | Corretor de Imóveis | [21-corretor-imoveis.zip](pacotes/21-corretor-imoveis.zip) |
+| 576450 | [13](briefings/13-nail-designer/) | Nail Designer | [13-nail-designer.zip](pacotes/13-nail-designer.zip) |
+| 576451 | [06](briefings/06-dj/) | DJ / Produtor Musical | [06-dj.zip](pacotes/06-dj.zip) |
+| 576922 | [25](briefings/25-fisioterapeuta/) | Fisioterapeuta esportivo | [25-fisioterapeuta.zip](pacotes/25-fisioterapeuta.zip) |
 
 ## O que vem no zip
 
