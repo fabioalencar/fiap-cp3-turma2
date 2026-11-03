@@ -1,6 +1,6 @@
 # Checkpoint 3 — Cartão de visita digital
 
-**Vale 10 pontos.** Prova em sala, individual, **1h30**. Data: [preencher]
+**Vale 10 pontos.** Prova em sala, individual, **1h30**. Data: **03/11/2026** (terça-feira)
 
 ## Do que se trata
 
